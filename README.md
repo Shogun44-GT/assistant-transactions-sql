@@ -1,3 +1,4 @@
+**Demo en ligne :** https://assistant-transactions-sql-ga5nse76ycdlrwbj6cqcbn.streamlit.app/
 \# Assistant transactions
 
 
